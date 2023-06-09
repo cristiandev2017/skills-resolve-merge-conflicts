@@ -1,3 +1,3 @@
-# References Mijito
+# References
 
-* octocat 1 😈 otro cosillo
+* octocat 1 😈
